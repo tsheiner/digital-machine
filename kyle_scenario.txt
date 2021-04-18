@@ -1,0 +1,26 @@
+> SCENARIO 1 <
+
+1). First thing in the morning, Kyle checks out hacker news and reads an article about a new data analytics tool called Jut. 
+
+2). Being a data nerd himself, Kyle decides to investigate it further. Kyle clicks a link to Jut's homepage and ends up on Jut.io 
+
+3). Upon arriving at Jut, Kyle immediately sees a visualization of real time and historical data of [traffic for hacker news]. Also within view is a code editor window pre - loaded with code in a language that he is told is Juttle. 
+
+4). Kyle also sees a short description of what exactly the code is doing along with challenge for changes he can try to make to the code and see how it effects the visualization. 
+
+5). Kyle sees a series of other scenarios that he can explore. As he clicks through each scenario, he can see how short segments of Juttle code allow him to analyze data in a way that is more effective and more efficient than h can with other applications. 
+
+6). Kyle begins to make edits in the editor window and is provided with code hints to help him better understand what methods and functions are available to him in Juttle. 
+
+7). Kyle follows the directions given in this first scenario and makes the suggested changes. Afterward, he sees the visualization immediately react to the changes he made. 
+
+8). After completing the recommended changes, Kyle clicks the 'submit' code button and is congratulated for taking his first step for correctly completing the challenge. 
+
+9). Kyle is then given an explanation of how juttle is designed with dev-ops engineers in mind along some suggestions for other ways he can make more advanced changes to his code in this scenario. He decides to pass on these suggestions and move on to the next scenario. 
+
+10). Kyle finishes a couple more scenarios and, on the last one, is given the option to import his own live <twitter feed>. After loading his data in, he makes some changes to the Juttle code that allow him to visualize it in a unique way. He decides he wants to share this visualization in a blog post about the advent of dev-ops and its effects on traditional operations. 
+
+11). Kyle copies a link to the visualization he's just made along with the data that he's uploaded and embeds the link in his blog. 
+
+12). Kyle sees how Jut could be useful for a couple future projects at work and decides to sign up for the beta while copying a few co-workers on the sign-up to loop them into the conversation and make sure they all know when Jut is ready for use. 
+
